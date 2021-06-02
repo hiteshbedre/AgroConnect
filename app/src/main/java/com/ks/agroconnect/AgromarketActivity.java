@@ -11,6 +11,7 @@ public class AgromarketActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         Integer salary = 100;
+        String firstname = "hitesh";
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_agromarket);
         wb = findViewById(R.id.agro_market);
