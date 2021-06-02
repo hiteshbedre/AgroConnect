@@ -10,6 +10,7 @@ public class AgromarketActivity extends AppCompatActivity {
     WebView wb;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        Integer salary = 100;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_agromarket);
         wb = findViewById(R.id.agro_market);
