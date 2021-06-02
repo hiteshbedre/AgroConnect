@@ -1,4 +1,4 @@
 # AgroConnect
 An application for Farmers
 Helping farmers with technology
-Trigger 6
+Trigger 7
